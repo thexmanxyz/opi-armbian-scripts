@@ -2,7 +2,7 @@
 This repository contains some useful (maintenance) scripts that I use to manage my OrangePi One server.
 
 ## Reason
-Actually, none but maybe as source / collection of scripts that could also be beneficial for others, who knows.
+Actually, none, but maybe as source / collection of scripts that could also be beneficial for others, who knows.
 
 ## Installation
 1. Download the bash files or the package (and extract the included files)
