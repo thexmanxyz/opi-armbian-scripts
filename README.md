@@ -1,5 +1,5 @@
-# OrangePi One Armbian Scripts
-This repository contains some useful scripts that I use to manage my OrangePi One server.
+# OrangePi One Armbian (Maintenance) Scripts
+This repository contains some useful (maintenance) scripts that I use to manage my OrangePi One server.
 
 ## Reason
 Actually, none but maybe as source / collection of scripts that could also be beneficial for others, who knows.
