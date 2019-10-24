@@ -18,3 +18,9 @@ Actually, none, but maybe as source / collection of scripts that could also be b
     [Optional]: Both scripts return the status of the service after execution. If you pass the first parameter with a value equal to `0` the advanced status logging will be disabled. E.g. `sudo ./service-script.sh 0`
     
 - **Systemd script** - downgrade script for systemd and *Xenial 16.04.05* can be found the [respective repository](https://github.com/thexmanxyz/systemd-downgrades).
+
+## Known Issues
+* none
+
+## by [thex](https://github.com/thexmanxyz)
+Copyright (c) 2018, free to use in personal and commercial software as per the [license](/LICENSE).
